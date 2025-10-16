@@ -1,0 +1,15 @@
+1. A cosa serve bootstrap?
+E' un framework frontend gratuito e facile per l'utilizzo per la gestione del css in maniera semplice e veloce da configurare
+
+2. Cosa devi importare per creare una pagina web con bootstrap 
+&ltlink rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"&gt
+
+3. Cos’è un CDN? Che vantaggi comporta rispetto a scaricare bootstrap sul tuo sito?
+E' un modo per importare le librerie senzaa doverli scaricare; il vantaggio è che si può facilmente cambiare versione direttamente dal tag senza dover riscaricare tutto da capop
+
+4. A cosa serve questo attributo del tag meta?
+content="width=device-width, initial-scale=1
+Serve a dare la possibilità all'utente di renderizzare il contenuto e configurare le varie opzioni disponibili, in questo caso per i dispositivi mobile lo zoom a tocco
+
+5. Che differenza c’è tra Container e Container Fluid (prova il container fluid creando una pagina chiamata BTS_1.1.1.html)
+Container normale ha una dimensione preimpostata, mentre il fluido dà la possibilità di cambiare dimensione in base alla dimensione dello schermo disponbibile
